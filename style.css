@@ -226,7 +226,7 @@ font-weight: 400;
 .main-hero {
     height: 114px;
     background-size: cover;
-    background-position: top center;
+    background-position: center center;
     display: flex;
     align-items: start;
     justify-content: center;
