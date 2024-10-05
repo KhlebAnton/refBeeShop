@@ -355,6 +355,7 @@ align-items: center;
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 4px;
 }
 .payment-item {
     background: #191A1D;
